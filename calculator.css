@@ -1,0 +1,43 @@
+body{
+    background-image: url("calculator.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container {
+ text-align: center;
+ margin-top: 23px;
+}
+table{
+    margin: auto;
+}
+
+input{
+    border-radius: 10px;
+    font-size: 34px;
+    width: auto;
+    border: 5px solid #244624 ;
+}
+
+button{
+    font-size: 40px;
+    background: rgb(172, 108, 108);
+    width: 104px;
+    height: 78px;
+    border-radius: 10px;
+}
+
+.calculator{
+     background: gray;
+     border: 10px;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+}
+
+.color{
+    background: yellow;
+}
+
+.colors{
+    background: red;
+}
